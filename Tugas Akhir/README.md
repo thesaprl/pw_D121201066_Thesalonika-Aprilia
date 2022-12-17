@@ -1,0 +1,27 @@
+
+# Tugas Final Pemrograman Web
+
+Nama : Thesalonika Aprilia
+
+
+
+NIM : D121201066
+
+Kelas : Pemrograman Web C
+#### Kelompok 3:
+
+- DAVID MARCELIO MAELISSA (D121201055)
+- THESALONIKA APRILIA (D121201066)
+- LEEVIO WICAKSONO PURNAMAWANG (D121201074)
+- NUR WAHYUNI (D121201091)
+- RIFYAL MUHAMMAD INSAN (D121201099)
+
+### Code Language
+
+- HTML
+- CSS
+- JS
+- PHP
+
+
+### Preview
