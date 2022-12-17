@@ -27,6 +27,7 @@ Kelas : Pemrograman Web C
 ### Preview Web
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/52093850/208243988-c296e2a6-2b26-4297-9630-762453494812.png">
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/52093850/208244120-0b7411a4-0ad2-48ee-9f70-7e265b7f898e.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/52093850/208244327-7685f973-fd52-4124-a87e-ddb3d6865a0e.png">
 <img width="959" alt="image" src="https://user-images.githubusercontent.com/52093850/208244165-61c615bb-f68e-406e-8e55-c921c39e32fb.png">
 
 ### Database
